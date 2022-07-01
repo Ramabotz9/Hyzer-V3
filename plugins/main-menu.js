@@ -1,5 +1,5 @@
 /**
-* create by hyzer official
+* create by RamaBotz
 * g usah di hapus anjg, gw cape sumpah
 * sc free, bayar pake subs aja udh good
 * jika ada bug/mau request fitur
@@ -302,7 +302,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `${ucapan()} ${name}`,
             description: menuu,
-            buttonText: 'KLIK AJG🗿',
+            buttonText: 'M E N U ',
             listType: 1,
             footerText: "Zxyuu Romm -- Xzyuu Naii",
             mtype: 'listMessage',
