@@ -9,8 +9,8 @@ let anu = `Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
 ├ Dana : ${dana}
-├ Pulsa : 081224804615
-├ pulsa : 081215710461
+├ Pulsa : 082147562437
+├ gopay : 087793236775
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
