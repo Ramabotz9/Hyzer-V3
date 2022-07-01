@@ -1,23 +1,23 @@
 //=============『 Utama 』================== //
-global.owner = ['6281322667077', '6281215710461'] 
+global.owner = ['6287793236775', '6282147562437'] 
 global.mods = [] 
-global.prems = ['6281215710461', '6281322667077'] 
+global.prems = ['6287793236775', '6282147562437'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ZxyuuRomm'
-global.nameowner2 = 'XzyuuNaii'
-global.numberowner = '6281322667077'
-global.numberowner2 = '6281215710461'
-global.instagram = 'https://instagram.com/Naiichnz'
-global.github = 'https://github.com/romlisuhanda'
-global.dana = '081322667077'
-global.pulsa = '081215710461'
-global.gopay = '-'
+global.nameowner = 'RamaOwer'
+global.nameowner2 = 'RamaBotz'
+global.numberowner = '6287793236775'
+global.numberowner2 = '6282147562437'
+global.instagram = 'https://instagram.com/ahmdzakaria47'
+global.github = 'https://github.com/ramabotz9'
+global.dana = '_'
+global.pulsa = '082147562437'
+global.gopay = '087793236775'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Z X Y U U B O T Z - MD'
-global.gc = 'https://chat.whatsapp.com/K9vsKm2jDga8ATZEcfpEGA'
-global.web = 'https://zxyuuromm2.romlisuhanda040.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'R A M A B O T Z - MD'
+global.gc = 'https://chat.whatsapp.com/Du4M5jnXaXy04Wvi41hT4t'
+global.web = 'https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -27,8 +27,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Z X Y U U B O T Z - Md'
 global.watermark = wm
-global.wm2 = '                               「 Xzyuu Naii⁩ 」'
-global.wm3 = '⫹⫺ Zxyuu Botz'
+global.wm2 = '                               「 RamaBotz⁩ 」'
+global.wm3 = '⫹⫺ Rama Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg'
@@ -39,7 +39,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ''
-global.author = '© 2022 Zxyuu - Xzyuu'
+global.author = '© 2022 Rama - Rama'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
