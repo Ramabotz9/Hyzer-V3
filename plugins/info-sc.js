@@ -15,8 +15,8 @@ Sc Ori By Hizer Official :
 _Thanks Hyzer Official_
 https://youtu.be/AXPzjQ5jxx8
 
-Sc Recode By Romli :
-https://wa.me/6281322667077
+Sc Recode By Rama :
+https://wa.me/6287793236775
 
 _ZxyuuBotz_`
 conn.send2But(m.chat, esce, wm3, 'Thanks', 'ok', 'OWNER', '.owner', m) 
